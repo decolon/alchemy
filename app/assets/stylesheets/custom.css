@@ -1,0 +1,9 @@
+/* style for placeholder logo */
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+	height: 600px;
+}
